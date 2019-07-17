@@ -1,6 +1,6 @@
 <template>
   <div class="login-wrap">
-    <van-nav-bar title="首页"/>
+    <van-nav-bar title="登录"/>
     <!-- 表单 -->
     <form>
       <van-cell-group>
